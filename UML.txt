@@ -1,0 +1,31 @@
++---------------------+
+|       DeThi1.Shape         |
++---------------------+
+| - shapeName: String |
+| - color: String     |
++-----------------+
+| + DeThi1.Shape()           |
+| + DeThi1.Shape(shapeName: String, color: String) |
+| + setShapeName(shapeName: String): void |
+| + getShapeName(): String |
+| + setColor(color: String): void |
+| + getColor(): String |
+| + toString(): String |
++----------------------+
+          ^
+          |
+          |
++-----------------+
+|   DeThi1.Rectangle|
++-----------------+
+| - width: double |
+| - height: double|
++-----------------+
+| + DeThi1.Rectangle(_shapeName: String, _color: String, _width: double, _height: double) |
+| + setWidth(_width: double): void |
+| + getWidth(): double |
+| + setHeight(_height: double): void |
+| + getHeight(): double |
+| + toString(): String |
+| + calArea(): double  |
++----------------------+
