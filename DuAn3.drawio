@@ -305,17 +305,53 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XRsZOeSsvvlPLuTSGg8Y" name="Trang-2">
-    <mxGraphModel dx="1424" dy="919" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2064" dy="903" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CR7f9FWE3cBdBduL5XAY-3" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="CR7f9FWE3cBdBduL5XAY-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-389" y="-8" width="168" height="274" as="geometry" />
         </mxCell>
-        <mxCell id="CR7f9FWE3cBdBduL5XAY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CR7f9FWE3cBdBduL5XAY-3">
+        <mxCell id="CR7f9FWE3cBdBduL5XAY-1" value="KhachHang" style="rounded=0;whiteSpace=wrap;html=1;" parent="CR7f9FWE3cBdBduL5XAY-3" vertex="1">
           <mxGeometry width="168" height="80.98522167487684" as="geometry" />
         </mxCell>
-        <mxCell id="CR7f9FWE3cBdBduL5XAY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CR7f9FWE3cBdBduL5XAY-3">
+        <mxCell id="CR7f9FWE3cBdBduL5XAY-2" value="&lt;table style=&quot;table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: none;&quot; data-sheets-baot=&quot;1&quot; data-sheets-root=&quot;1&quot; border=&quot;1&quot; dir=&quot;ltr&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;100&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;&quot;&gt;Họ và Tên&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;&quot;&gt;Địa chỉ&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;&quot;&gt;Điện Thoại&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;&quot;&gt;Mã Khách Hàng&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="CR7f9FWE3cBdBduL5XAY-3" vertex="1">
+          <mxGeometry y="80.98522167487684" width="168" height="193.01477832512313" as="geometry" />
+        </mxCell>
+        <mxCell id="0zAjb5pN5m_zYKTA9GPS-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-214" y="300" width="168" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="0zAjb5pN5m_zYKTA9GPS-2" value="DatHang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0zAjb5pN5m_zYKTA9GPS-1">
+          <mxGeometry width="168" height="80.98522167487684" as="geometry" />
+        </mxCell>
+        <mxCell id="0zAjb5pN5m_zYKTA9GPS-3" value="&lt;table style=&quot;table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: none;&quot; data-sheets-baot=&quot;1&quot; data-sheets-root=&quot;1&quot; border=&quot;1&quot; dir=&quot;ltr&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;143&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;&quot;&gt;Mã Đơn Hàng&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;&quot;&gt;Mã Sản Phẩm&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom;&quot;&gt;Số Lượng&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0zAjb5pN5m_zYKTA9GPS-1">
+          <mxGeometry y="80.98522167487684" width="168" height="193.01477832512313" as="geometry" />
+        </mxCell>
+        <mxCell id="0zAjb5pN5m_zYKTA9GPS-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-569" y="307" width="168" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="0zAjb5pN5m_zYKTA9GPS-5" value="DonHang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0zAjb5pN5m_zYKTA9GPS-4">
+          <mxGeometry width="168" height="80.98522167487684" as="geometry" />
+        </mxCell>
+        <mxCell id="0zAjb5pN5m_zYKTA9GPS-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0zAjb5pN5m_zYKTA9GPS-4">
+          <mxGeometry y="80.98522167487684" width="168" height="193.01477832512313" as="geometry" />
+        </mxCell>
+        <mxCell id="0zAjb5pN5m_zYKTA9GPS-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-35" y="-17" width="168" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="0zAjb5pN5m_zYKTA9GPS-8" value="SanPham" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0zAjb5pN5m_zYKTA9GPS-7">
+          <mxGeometry width="168" height="80.98522167487684" as="geometry" />
+        </mxCell>
+        <mxCell id="0zAjb5pN5m_zYKTA9GPS-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0zAjb5pN5m_zYKTA9GPS-7">
+          <mxGeometry y="80.98522167487684" width="168" height="193.01477832512313" as="geometry" />
+        </mxCell>
+        <mxCell id="z9RgLoOVm4gzdUr1odMl-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="43" y="299" width="168" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="z9RgLoOVm4gzdUr1odMl-2" value="ChiTietDonHang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z9RgLoOVm4gzdUr1odMl-1">
+          <mxGeometry width="168" height="80.98522167487684" as="geometry" />
+        </mxCell>
+        <mxCell id="z9RgLoOVm4gzdUr1odMl-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z9RgLoOVm4gzdUr1odMl-1">
           <mxGeometry y="80.98522167487684" width="168" height="193.01477832512313" as="geometry" />
         </mxCell>
       </root>
